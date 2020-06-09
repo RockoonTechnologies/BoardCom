@@ -34,6 +34,8 @@ For now, there is a tiny delay between when data is sent so its easier for the p
 # Troubleshooting
 
 *I installed the program but on boot the program is static and is a frozen grey window*
+
+
    This can be a number of reasons. Make sure java is installed and you have the correct version for your architecture.
    If this does not work, see if the "Roboto-Light" font file is present, if not the program may crash.
    Lastly, make sure your Flight Computer or Arduino is plugged in and operating, if a serial device is not detected the program may        fail to boot.
